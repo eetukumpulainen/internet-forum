@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(31, 31, 31);
+}
+h1 {
+    font-family: Arial;
+    color: white;
+    margin: 5px;
+    padding: 5px;
+}
+.bluebox {
+    background-color: midnightblue;
+    border: 2px solid white;
+    margin: 5px;
+}
+.field {
+    padding: 5px;
+    margin: 5px;
+}
+.user {
+    background-color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.bottombox {
+    background-color: midnightblue;
+    border: 2px solid white;
+    margin: 5px;
+}
